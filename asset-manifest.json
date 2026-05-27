@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Elite-Lounge/static/js/main.5a83b753.js",
-    "index.html": "/Elite-Lounge/index.html",
-    "main.5a83b753.js.map": "/Elite-Lounge/static/js/main.5a83b753.js.map"
+    "main.js": "./static/js/main.c10dda62.js",
+    "index.html": "./index.html",
+    "main.c10dda62.js.map": "./static/js/main.c10dda62.js.map"
   },
   "entrypoints": [
-    "static/js/main.5a83b753.js"
+    "static/js/main.c10dda62.js"
   ]
 }
